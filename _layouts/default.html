@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+  		<title>{{ site.title | escape }}</title>
+      <!-- Meta -->
+  		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  		<meta name="description" content="{{ site.description }}" />
+      <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
+  		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+      <!-- JS -->
+  		<script src="/js/jquery.min.js"></script>
+  		<script src="/js/jquery.poptrox.min.js"></script>
+  		<script src="/js/skel.min.js"></script>
+  		<script src="/js/init.js"></script>
+  		<noscript>
+  			<link rel="stylesheet" href="/css/skel.css" />
+  			<link rel="stylesheet" href="/css/style.css" />
+  			<link rel="stylesheet" href="/css/style-xlarge.css" />
+  		</noscript>
+  		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
+  	</head>
+
+	<body id="top">
+
+      <header id="header">
+          <a href="/" class="image avatar"><img src="/images/pc.jpg" alt="profile photo" /></a>
+          <div style="margin-top:-20px">
+            <h1>Vic Yeh</h1>
+            <h5 style="color:rgba(255,255,255,0.7);margin-top:-10px">Programmer and Entrepreneur</h5>
+          </div>
+          <ul class="menu">
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/projects">Projects</a></li>
+          </ul>
+      </header>
+
+        {{ content }}
+
+        <!-- Footer -->
+        <footer id="footer">
+            <ul class="icons">
+
+              {% if site.twitter_username %}
+              <li>
+                <a href="https://twitter.com/{{ site.twitter_username }}" class="icon fa-twitter" target="_blank">
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.github_username %}
+              <li>
+                <a href="https://github.com/{{ site.github_username }}" class="icon fa-github" target="_blank">
+                  <span class="label">GitHub</span>
+                </a>
+              </li>
+              {% endif %}
+
+              {% if site.email %}
+              <li>
+                <a href="mailto:{{ site.email }}" class="icon fa-envelope-o">
+                  <span class="label">Email</span>
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+            <ul class="copyright">
+                <li>&copy; 2016. All rights reserved.</li>
+            </ul>
+        </footer>
+
+	</body>
+</html>
