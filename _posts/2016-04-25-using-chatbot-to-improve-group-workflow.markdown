@@ -89,3 +89,5 @@ This feature is currently under "alpha-testing", and I hope to refine the progra
 What's next?
 ------------
 A well-designed chatbot can facilitate the planning process and the overall throughput of an organization. Since our chatbot architecture follows the design paradigm of modularization, everyone in ACM can contribute to the chatbot by simply writing a script for a certain purpose. Some of the features we want to add on later include reimbursement, financial statistics, IoT integration, etc. We aim to build more interesting features, and hopefully involve other student organizations in the new era of chatbot automation.
+
+<meta property="og:image" content="{{ localhost.url }}/images/blogs/425/12.png" />
