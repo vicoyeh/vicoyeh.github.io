@@ -8,7 +8,7 @@
 */
 
 /* Basic */
-
+	img[alt=img] { width: 100% }
 	body {
 		background: #fff;
 	}
