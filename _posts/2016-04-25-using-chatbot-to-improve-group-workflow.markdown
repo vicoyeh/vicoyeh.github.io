@@ -53,7 +53,7 @@ Reminder
 --------
 Having a reminder in the chat is helpful for a student group like us (so people cannot make excuses for forgetting about the meetings). Once again, using Wit.ai intent parser, Senpai can remind a certain group of people about a certain event at a specific time when it receives a sentence like this: 
 
-![img]({{ localhost.url }}/images/blogs/425/12.png)
+![img]({{ localhost.url }}/images/blogs/425/5.png)
 
 In order to prevent errors like HTTP connection timeouts, the reminder has to handle two types of requests separately:
 
