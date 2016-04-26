@@ -3,19 +3,19 @@ layout: post
 ---
 The idea of chatbot is nothing new, but has become the commercial focus of many messaging services. Take Facebook Messenger as an example, they recently launched their own [bot platform](http://www.theverge.com/2016/4/12/11395806/facebook-messenger-bot-platform-announced-f8-conference) to rival the dominating Slackbot in the market. The trend shows high interest in chatbots by the general public nowadays, and there is a reason for it - creating a customized chatbot specific to the need an individual or organization can greatly improve productivity.
 
-I did not see the merits of a chatbot until I built one for [UCLA ACM](http://acm.cs.ucla.edu), the largest computer science student group on campus. As an officer, I sometimes find it difficult to keep up with all the events due to our large group size (40~50 people). Even though we use Slack as the communicaiton channel (which has many nice features for grouping), information can still be easily lost and many repetitive chores are often distributed among the officers. These are the problems that a chatbot can solve: keep track of information and manage repetitive works.
+I did not see the merits of a chatbot until I built one for [UCLA ACM](http://acm.cs.ucla.edu), the largest computer science student group on campus. As an officer, I sometimes find it difficult to keep up with all the events due to our large group size (40~50 people). Even though we use Slack as the communication channel (which has many nice features for grouping), information can still be easily lost and many repetitive chores are often distributed among the officers. These are the problems that a chatbot can solve: keep track of information and manage repetitive works.
 
 Features Planning
 -----------------
 It is important to understand the use case of the chatbot early. At UCLA ACM, we had to manually perform the following tasks:
-	
+
 - create sign-in sheets for events
 - remind committee chairs to submit newsletter events
 - check whether our student lounge is open
 - search for resource links
 - and more...
 
-These are the sorts of tasks that can be resolved by a combination of software and hardware approaches. Our Slackbot is, therefore, designed to eliminate huamn involvement in these boring activities. 
+These are the sort of tasks that can be resolved with a combination of software and hardware approaches. Our Slackbot is, therefore, designed to eliminate human involvement in tedious activities. 
 
 Planning features before the construction phase allows me to develop a robust dispatcher for our Slackbot. By sorting distinct features into independent sets, the dispatcher can handle user queries effectively and allows me to achieve better modularization accordingly. Here is part of our Slackbot directory structure:
 	
@@ -55,7 +55,7 @@ Having a reminder in the chat is helpful for a student group like us (so people 
 
 ![img]({{ localhost.url }}/images/blogs/425/5.png)
 
-In order to prevent errors like HTTP connection timeouts, the reminder has to handle two types of requests seperately:
+In order to prevent errors like HTTP connection timeouts, the reminder has to handle two types of requests separately:
 
 1. remind within 60 seconds 
 	- This type of request can be handled by a simple HTTP response by waiting for the amount of time requested. The logic is straight-forward and does not require additional modules.
@@ -75,7 +75,7 @@ Senpai can also help us broadcast a message via SMS:
 
 Interfacing with the Physical World
 -----------------------------------
-ACM has a student lounge (or clubhouse) for students to work on projects outside of classes. However, the door is locked sometimes since only few officers have the keys at this moment. Asking people about the clubhouse status is just too much hassle. Can we ask Senpai to check it for us? Maybe...
+ACM has a student lounge (or clubhouse) for students to work on projects outside of classes. It is often locked because only a few officers have the key to the door at the moment. To ask an officer to open the door every time is just too much of an hassle. Can we ask Senpai to check it for us? Maybe...
 
 ![img]({{ localhost.url }}/images/blogs/425/9.png)
 
@@ -88,5 +88,4 @@ This feature is currently under "alpha-testing", and I hope to refine the progra
 
 What's next?
 ------------
-A well-designed chatbot can faciliate the planning process and the overall throughput of an organization. Since our chatbot architecture follows the design paradigm of modularization, everyone in ACM can contribute to the chatbot by simply writing a script for a certain purpose. Some of the features we want to add on later include reimbursement, financial statistics, IoT integration, etc. We aim to build more interesting features, and hopefully involve other student organizations in the new era of chatbot automation.
-
+A well-designed chatbot can facilitate the planning process and the overall throughput of an organization. Since our chatbot architecture follows the design paradigm of modularization, everyone in ACM can contribute to the chatbot by simply writing a script for a certain purpose. Some of the features we want to add on later include reimbursement, financial statistics, IoT integration, etc. We aim to build more interesting features, and hopefully involve other student organizations in the new era of chatbot automation.
