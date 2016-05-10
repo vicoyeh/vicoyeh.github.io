@@ -31,7 +31,7 @@ Finding speakers was just a part of the challenge - we also had to get sponsorsh
 
 To One
 ------
-These months of hustle proved worthy in the end. In the morning of Founder's School day, students, engineers, founders, and investors from different organizations assembled at Roelf Hall of UCLA to hear Vlad's keynote. The chair of CS department, Professor Mario Gerla, also attended the event and introduced the keynote speaker personally. During the keynote, Vlad shared his experiences with Robinhood and gave advice to attendees on launching a startup. Through the one-hour long fire chat with the Robinhood CEO, we were able to learn about his approach to various technical and non-technical problems, and more importantly, being inspired to create a venture on our own.
+These months of hustle proved worthy in the end. In the morning of Founder's School day, students, engineers, founders, and investors from different organizations assembled at Rolfe Hall of UCLA to hear Vlad's keynote. The chair of CS department, Professor Mario Gerla, also attended the event and introduced the keynote speaker personally. During the keynote, Vlad shared his experiences with Robinhood and gave advice to attendees on launching a startup. Through the one-hour long fire chat with the Robinhood CEO, we were able to learn about his approach to various technical and non-technical problems, and more importantly, being inspired to create a venture on our own.
 
 ![img]({{ localhost.url }}/images/blogs/509/keynote.JPG)
 
@@ -59,6 +59,7 @@ Notes
 	Hannah, Yingjia, Apurva, Jennifer, Brandon, Jeffrey, Li-wei, Shitij, and me
 	* *Volunteers*:
 	Luke, Andrew, Jasmine, and Rishabh
+	* Special thanks to the UCLA CS Department (Laurie, Cassandra, Professor Gerla, and more)!
 
 2. The videos and photos for Founder's School will be uploaded to the website soon.
 3. Let me know if you are interested in learning more about Founder's School!
