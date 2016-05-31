@@ -18,3 +18,4 @@ github_username:      vic317yeh  # Replace this with your GitHub username
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
