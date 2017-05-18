@@ -1283,3 +1283,19 @@
 		padding:2px 4px;
 		border-radius: 3px;
 	}
+
+	strong {
+		color: #111;
+	}
+
+	h1,h2,h3,h4,h5,h6 {
+		font-weight: bold;
+	}
+
+	body {
+		color: #666;
+	}
+
+	.post-meta {
+		color: #999;
+	}
