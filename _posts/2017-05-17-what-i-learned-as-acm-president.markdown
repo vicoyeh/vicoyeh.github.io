@@ -25,4 +25,4 @@ Below are the most valuable lessons I gained that shaped my views on leadership.
 In general, it is not easy to be a leader. If things are going well you get some credits. But if things go wrong, you can be potentially responsible for all the blames. That is exactly why leadership is a difficult task. It is a life-long learning process for every individual who aims to make a difference in society.
 
 
-*Edit (5/18)*: We received a good news the day after I uploaded this post. UCLA ACM won the 2016-2017 [ACM Student Chapter Excellence Award for Outstanding Chapter Activities](https://www.acm.org/chapters/student-chapter-excellence-awards) (the best ACM chapter in the world)!
+*Edit (5/18)*: We received good news the day after I uploaded this post. UCLA ACM won the 2016-2017 [ACM Student Chapter Excellence Award for Outstanding Chapter Activities](https://www.acm.org/chapters/student-chapter-excellence-awards) (the best ACM chapter in the world)!
