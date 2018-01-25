@@ -4,7 +4,7 @@ title: Vic Yeh # Title of your site
 email: vic.yeh@ucla.edu # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
-  Just a blog of another college student.
+  My personal website.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://vicyeh.com" # the base hostname & protocol for your site
 
