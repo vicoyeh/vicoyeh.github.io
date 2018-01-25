@@ -41,20 +41,27 @@
 		-o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: rgb(56, 161, 246) !important;
 		text-decoration: none;
 	}
 
-		a:hover {
-			border-bottom-color: transparent;
-			color: rgb(32, 145, 163) !important;
-			text-decoration: none;
-		}
+
+	a:hover {
+		border-bottom-color: transparent;
+		text-decoration: underline;
+	}
+
+	#header a, #footer a {
+		color: rgba(255,255,255,0.9) !important;
+	}
+
+	#header a:hover, #footer a:hover {
+		text-decoration: none;
+		color: rgb(56, 161, 246) !important;
+	}
 
 	strong, b {
-		color: #787878;
-		font-weight: 400;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -66,7 +73,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #000;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -219,7 +226,7 @@
 	}
 
 	label {
-		color: #787878;
+		color: #000;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 400;
@@ -936,7 +943,7 @@
 /* Header */
 
 	#header {
-		background-color: rgb(62, 175, 193);
+		background-color: #000;
 		background-attachment: scroll,								fixed;
 		/* background-image: url("images/overlay.png"), url("../images/bg.jpg"); */
 		background-position: top left,							top left;
@@ -972,13 +979,17 @@
 			width: 6.25em;
 		}
 
+		#header h5 {
+			color: rgba(255, 255, 255, 0.9) !important;
+		}
+
 		#header .menu {
 			list-style: none;
 
 		}
 
 		#header .menu a {
-			color:rgba(255,255,255,0.7);
+			color:rgba(255,255,255,0.9);
 			font-size: 1.2em;
 			line-height: 2em;
 			border-bottom: none;
@@ -1278,24 +1289,24 @@
 
 /* Custom */
 	em {
-		background-color: #E26A6A;
-		color: #fff;
+		color: #222;
 		padding:2px 4px;
 		border-radius: 3px;
 	}
 
-	strong {
-		color: #111;
-	}
 
 	h1,h2,h3,h4,h5,h6 {
 		font-weight: bold;
 	}
 
 	body {
-		color: #666;
+		color: #222;
+	}
+
+	.highlight code {
+		color: #fff;
 	}
 
 	.post-meta {
-		color: #999;
+		color: #666;
 	}
