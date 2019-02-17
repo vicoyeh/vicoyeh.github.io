@@ -60,7 +60,7 @@ There are two things you shouldn’t overemphasize on: profitability and funding
 The described method is purely derived from my personal philosophy and experience, as the word “right” varies per individual. I do hope that this essay can at least serve as a guideline to help you make a decision, or get you start thinking about joining a company you would not have considered before. If you are looking for a place to start, below is a list of accredited resources on high potential startups:
 * [Breakout List](https://breakoutlist.com/)
 * [These 50 Start-Ups May Be the Next 'Unicorns'](https://www.nytimes.com/2019/02/10/technology/these-50-start-ups-may-be-the-next-unicorns.html?module=inline) (by NYT and CB Insights)
-* [Top Company List](https://www.ycombinator.com/topcompanies/) (by Y Combinator)
+* [Top Companies List](https://www.ycombinator.com/topcompanies/) (by Y Combinator)
 * [The Forbes Fintech 50](https://www.forbes.com/fintech/2019)
 
 
