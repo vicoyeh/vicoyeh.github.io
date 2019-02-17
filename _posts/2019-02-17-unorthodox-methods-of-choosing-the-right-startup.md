@@ -2,6 +2,7 @@
 layout: post
 title: Unorthodox Methods of Choosing the Right Startup
 permalink: unorthodox-methods-of-choosing-the-right-startup
+description: If you have known me for a while you probably know that I get uncontrollably passionate when it comes to the topic of startups. There is just something intrinsic that is fascinating to me about a group of ambitious people working tirelessly to create a reality closer to their imagination. However, the truth is most startups fail. And this is the exact reason why most people are turned away and choose a steady career instead. If working at Google/Facebook has a higher expected value than joining a startup, why risk working longer hours with lower compensation at a place with so much uncertainty?
 ---
 
 If you have known me for a while you probably know that I get uncontrollably passionate when it comes to the topic of startups. There is just something intrinsic that is fascinating to me about a group of ambitious people working tirelessly to create a reality closer to their imagination. However, the truth is most startups fail. And this is the exact reason why most people are turned away and choose a steady career instead. If working at Google/Facebook has a higher expected value than joining a startup, why risk working longer hours with lower compensation at a place with so much uncertainty?
