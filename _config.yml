@@ -1,20 +1,29 @@
-# Site settings
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-title: Vic Yeh # Title of your site
-email: vic.yeh@ucla.edu # Your contant email
+# Setup
+title:            Vic Yeh
+description:      ""
+url:              http://vicyeh.com/
+baseurl:          /
+                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
+                  # This will apply to all pages in your Jekyll site.
 
-description: > # this means to ignore newlines until "baseurl:"
-  Personal website - connecting dots in the universe.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://vicyeh.com" # the base hostname & protocol for your site
+author:
+  name:           Vic Yeh
+  url:            http://vicyeh.com/
 
-# Social links.
-# Replace the word 'example' with your username if you want to include the icon in the left sidebar
-# Delete the word 'example' if you don't want to include the icon in the left sidebar
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
 
-twitter_username:     vicohyeh  # Replace this with your Twitter username
-github_username:      vic317yeh  # Replace this with your GitHub username
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
+# Custom vars
+
+twitter: https://twitter.com/vicoyeh
+github: https://github.com/vicoyeh
