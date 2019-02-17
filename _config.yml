@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Vic Yeh
-description:      ""
+description:      "Personal website - connecting dots in the universe"
 url:              http://vicyeh.com/
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
