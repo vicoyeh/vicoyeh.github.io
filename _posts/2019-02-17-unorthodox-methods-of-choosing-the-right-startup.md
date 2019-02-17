@@ -29,7 +29,8 @@ With that being said, you should pick a mission that you’re passionate about -
 <br/>
 <br/>
 There are numerous channels to learn about the people affiliated with a company. LinkedIn and Crunchbase are good gateways for collecting information about the founders, team, and investors. Ask yourself whether you see yourself working with these people.
-
+<br/>
+<br/>
 At a Series C or earlier stage startup, you usually have the chance to build a personal connection with the founders and executives. Schedule a phone call or one-on-one with them to get a glimpse of their thoughts about the company’s future.</dd>
 
 <dt>Projects</dt>
