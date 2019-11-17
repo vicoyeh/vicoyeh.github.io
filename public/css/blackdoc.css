@@ -86,7 +86,7 @@ a:hover {
 
 strong,
 b {
-  color: #848471;
+  color: #333;
 }
 /* Code */
 
@@ -420,10 +420,19 @@ a.sidebar-nav-item:focus {
 }
 
 /* Customized */
-.archive-list li a {
+ul {
+  margin-top: 20px;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+ul li a {
   display: inline-block;
 }
 
-.archive-list li .post-date {
+ul li .post-date {
   font-size: 14px;
 }
+
