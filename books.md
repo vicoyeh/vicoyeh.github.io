@@ -8,7 +8,7 @@ Each year I pick five books I enjoyed the most that year for recommending to fri
 ### 2019
 * **Homo Deus: A Brief History of Tomorrow** by Yuval Noah Harari
 * **Bad Blood: Secrets and Lies in a Silicon Valley Startup** by John Carreyrou
-* **Secrets of Sand Hill Road: Venture Capital and How to Get I** by Scott Kupor
+* **Secrets of Sand Hill Road: Venture Capital and How to Get It** by Scott Kupor
 * **Talking to Strangers: What We Should Know about the People We Don't Know** by Malcolm Gladwell
 * **AI Superpowers: China, Silicon Valley and the New World Order** by Kai-Fu Lee
 
