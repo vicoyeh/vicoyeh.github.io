@@ -434,6 +434,6 @@ ul li a {
 
 ul li .post-date {
   font-size: 14px;
-  display: inline-block;
+  display: inline-block !important;
 }
 
