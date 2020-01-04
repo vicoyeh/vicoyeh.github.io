@@ -11,5 +11,5 @@ title: Archive
 </ul>
 
 ### Writing
-* [Moving a Business-Critical Monolith to Kubernetes](https://blend.com/blog/community/engineering/jenkins-dsl/) - <span class="post-date">4 Dec 2019</span>
+* [Moving a Business-Critical Monolith to Kubernetes](https://medium.com/blend-engineering/moving-a-business-critical-monolith-to-kubernetes-5180f465fdf) - <span class="post-date">4 Dec 2019</span>
 * [Continuous delivery as code with Jenkins DSL](https://blend.com/blog/community/engineering/jenkins-dsl/) - <span class="post-date">26 Nov 2018</span>
