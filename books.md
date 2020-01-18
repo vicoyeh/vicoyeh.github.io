@@ -3,7 +3,7 @@ layout: page
 title: Books
 ---
 
-Each year I pick five books I enjoyed the most that year for recommending to friends and family. Here is the full collection.
+Each year I pick five books I enjoyed the most that year. Here is the full collection.
 
 ### 2019
 * **Homo Deus: A Brief History of Tomorrow** by Yuval Noah Harari

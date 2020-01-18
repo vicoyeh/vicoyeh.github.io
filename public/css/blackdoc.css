@@ -284,6 +284,10 @@ a.sidebar-nav-item:focus {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
+.post,.page {
+  max-width: 820px;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,
