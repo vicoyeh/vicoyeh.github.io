@@ -3,7 +3,7 @@ layout: page
 title: Books
 ---
 
-Each year I pick five books I enjoyed the most that year. Here is the full collection.
+A full collection of books I enjoyed the most, ordered by the year I read them.
 
 ### 2019
 * **Homo Deus: A Brief History of Tomorrow** by Yuval Noah Harari
