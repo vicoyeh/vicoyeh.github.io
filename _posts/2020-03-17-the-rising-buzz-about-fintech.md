@@ -34,7 +34,7 @@ If we rule out the fundamental technical issues, there are also many challenges 
 
 <b>The Uncertainty Ahead</b>
 
-What goes up must come down, especially in speculative valuations. A growing number of growth-stage venture capitalists believe that a retrenchment in the broader private market is looming. Besides the impacts from the macro market, there are also questions around the appropriate valuations methods (ie. using SaaS multiples or book value multiples) for correctly evaluating a late-stage fintech. The general wariness could lead to fewer risk-taking projects for innovation and shrinking market value for fintechs.
+What goes up must come down, especially in speculative valuations. A growing number of growth-stage venture capitalists believe that a retrenchment in the broader private market is looming. Besides the impacts from the macro market, there are also questions around the appropriate valuation methods (ie. using SaaS multiples or book value multiples) for correctly evaluating a late-stage fintech. The general wariness could lead to fewer risk-taking projects for innovation and shrinking market value for fintechs.
 
 Nevertheless, it is an exciting time for the financial services industry. Thousands of startups and banks are launching new initiatives to make the previously cumbersome financial process more transparent and simple. As we move onward in the decade of the 2020s, it wouldn’t be surprising to see more fintechs become household names and bring on game-changing solutions. This technological shift in the financial services sector could and should make people’s financial lives better overall.
 
