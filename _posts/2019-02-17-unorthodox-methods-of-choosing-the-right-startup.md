@@ -52,7 +52,7 @@ There are two things you shouldn’t overemphasize on: profitability and funding
 
 <dt>Equity</dt>
 
-<dd><a href="http://blog.samaltman.com/how-to-be-successful">You get rich by owning things</a>. Calculate what percentage of the company you are going to own. Negotiate for higher equity and lower base salary if you can. Even if the stocks could be worthless, equity is always a better motive for personal growth than cash is. (a16z has a great intro explaining how stock options works if you are new to this subject - <a href="https://a16z.com/2016/08/24/options-ownership/">link</a>)</dd>
+<dd><a href="http://blog.samaltman.com/how-to-be-successful">You get rich by owning things</a>. Calculate what percentage of the company you are going to own. Negotiate for higher equity if you can. Even if the stocks could be worthless, equity is always a better motive for personal growth than cash is. (a16z has a great intro explaining how stock options works if you are new to this subject - <a href="https://a16z.com/2016/08/24/options-ownership/">link</a>)</dd>
 
 <dt>Fun</dt>
 
