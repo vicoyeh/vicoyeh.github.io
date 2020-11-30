@@ -4,14 +4,14 @@ highlighter:      rouge
 
 # Setup
 title:            Vic Yeh
-url:              http://vicyeh.com/
+url:              http://vicyeh.com
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
 author:
   name:           Vic Yeh
-  url:            http://vicyeh.com/
+  url:            http://vicyeh.com
 
 paginate:         5
 # paginate_path:    '/page:num'

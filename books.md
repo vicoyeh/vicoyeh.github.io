@@ -3,7 +3,7 @@ layout: page
 title: Books
 ---
 
-A collection of the top five books I enjoyed the most every year and would recommend to friends and family.
+A collection of the top five books I enjoyed the most, ordered by the year I read them.
 
 ### 2019
 * **Homo Deus: A Brief History of Tomorrow** by Yuval Noah Harari
