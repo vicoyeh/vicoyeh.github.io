@@ -7,10 +7,10 @@ A collection of the top five books I enjoyed the most, ordered by the year I rea
 
 ### 2020
 * **The Book of Why: The New Science of Cause and Effect** by Dana Mackenzie and Judea Pearl
-* **Basic Economics: A Citizen's Guide to the Economy** by Thomas Sowell
+* **The Black Swan: The Impact of the Highly Improbable** by Nassim Nicholas Taleb
 * **The $12 Million Stuffed Shark: The Curious Economics of Contemporary Art** by Donald N. Thompson
 * **Born a Crime: Stories from a South African Childhood** by Trevor Noah
-* **A Random Walk Down Wall Street** by Burton Malkiel
+* **Basic Economics: A Citizen's Guide to the Economy** by Thomas Sowell
 
 ### 2019
 * **Homo Deus: A Brief History of Tomorrow** by Yuval Noah Harari
