@@ -5,6 +5,13 @@ title: Books
 
 A collection of the top five books I enjoyed the most, ordered by the year I read them.
 
+### 2021
+* **Ikigai: The Japanese Secret to a Long and Happy Life** by Francesc Miralles and Hector Garcia
+* **The Everything Store: Jeff Bezos and the Age of Amazon** by Brad Stone
+* **The Art of War** by Sun Tzu
+* **Good Economics for Hard Times** by Abhijit Banerjee and Esther Duflo
+* **Why Buddhism is True: The Science and Philosophy of Meditation and Enlightenment** by Robert Wright
+
 ### 2020
 * **The Book of Why: The New Science of Cause and Effect** by Dana Mackenzie and Judea Pearl
 * **The Black Swan: The Impact of the Highly Improbable** by Nassim Nicholas Taleb

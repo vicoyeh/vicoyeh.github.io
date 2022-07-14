@@ -3,6 +3,14 @@ layout: page
 title: About
 ---
 
-My name is Vic Yeh. I am a software engineer at [Blend](https://blend.com/), building modern financial products for banks and credit unions. I also invest in pre-seed and seed stage startups at [Polymath](https://polymathcp.com), where we help portfolio companies achieve product-market fit.
+My name is Vic Yeh. I'm a founder, engineer, and investor.
 
-My interests lie in the intersection of technology and venture capitals in both the U.S. and China. In technical terms, the areas I am passionate about include distributed systems, machine intelligence, consumer internet, and enterprise SaaS. The best way to reach me is via Twitter: [@vicoyeh](https://twitter.com/vicoyeh).
+I am currently working at [Oyster](https://www.withoyster.com/), an insurance technology company aiming to redesign personal insurance from the ground up. I also invest in early stage startups at [Polymath](https://polymathcp.com), a pre-seed/seed focused fund.
+
+Here are my areas of interest:
+- **Engineering**: distributed systems, machine intelligence
+- **Investing**: insurtech/fintech, consumer internet, B2B SaaS
+- **Cities**: London, Tokyo, San Francisco, Shanghai, NYC, Barcelona, Taipei, Singapore
+- **Books**: check out my [bookshelf](http://vicyeh.com/books.html)
+
+You can reach me on [Twitter](https://twitter.com/vicoyeh).
