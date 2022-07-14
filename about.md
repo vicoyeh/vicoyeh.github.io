@@ -11,6 +11,6 @@ Here are my areas of interest:
 - **Engineering**: distributed systems, machine intelligence
 - **Investing**: insurtech/fintech, consumer internet, B2B SaaS
 - **Cities**: London, Tokyo, San Francisco, Shanghai, NYC, Barcelona, Taipei, Singapore
-- **Books**: check out my [bookshelf](http://localhost:4000/books.html)
+- **Books**: check out my [bookshelf](http://vicyeh.com/books.html)
 
 You can reach me on [Twitter](https://twitter.com/vicoyeh).
