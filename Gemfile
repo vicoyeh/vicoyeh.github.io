@@ -7,3 +7,4 @@ gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem 'addressable', '2.8.0'
 gem "kramdown-parser-gfm"
+gem "webrick", "~> 1.8"

@@ -5,6 +5,13 @@ title: Books
 
 A collection of the top five books I enjoyed the most, ordered by the year I read them.
 
+### 2022
+* **High Output Management** by Andrew Grove
+* **What You Do Is Who You Are** by Ben Horowitz
+* **Genghis Khan and the Making of the Modern World** by Jack Weatherford
+* **Salt, Fat, Acid, Heat** by Samin Nosrat
+* **Data-Driven Marketing: The 15 Metrics Everyone in Marketing Should Know** by Mark Jeffery
+
 ### 2021
 * **Ikigai: The Japanese Secret to a Long and Happy Life** by Francesc Miralles and Hector Garcia
 * **The Everything Store: Jeff Bezos and the Age of Amazon** by Brad Stone
