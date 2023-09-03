@@ -9,8 +9,7 @@ I am currently working at [Oyster](https://www.withoyster.com/), an insurance te
 
 Here are my areas of interest:
 - **Engineering**: distributed systems, machine intelligence
-- **Investing**: insurtech/fintech, consumer internet, B2B SaaS
-- **Cities**: London, Tokyo, San Francisco, Shanghai, NYC, Barcelona, Taipei, Singapore
+- **Investing**: insurtech/fintech, B2C/B2B software, developer tools
 - **Books**: check out my [bookshelf](http://vicyeh.com/books.html)
 
 You can reach me on [Twitter](https://twitter.com/vicoyeh).
