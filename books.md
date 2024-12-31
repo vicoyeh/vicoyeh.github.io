@@ -3,7 +3,7 @@ layout: page
 title: Books
 ---
 
-A collection of the top five books I enjoyed the most, ordered by the year I read them.
+A collection of books I liked.
 
 ### 2022
 * **High Output Management** by Andrew Grove
