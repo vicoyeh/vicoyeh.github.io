@@ -5,7 +5,7 @@ title: About
 
 My name is Vic Yeh. I'm a founder, engineer, and investor.
 
-I am currently working at [Cara](https://www.getcara.ai/), a domain-specific AI company for the insurance industry. I also invest in early stage startups at [Polymath](https://polymathcp.com), a pre-seed/seed focused fund.
+I am currently working at [Cara](https://www.getcara.ai/), a domain-specific AI company for the insurance industry. I also invest in early stage startups at [Polymath](https://polymathcp.com), a pre-seed focused fund.
 
 Here are my areas of interest:
 - **Engineering**: machine intelligence, distributed systems
